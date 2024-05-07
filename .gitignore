@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+dist/
+.angular/
+
+# Generated files
+*.log
+npm-debug.log*
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Temporary files
+.tmp/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+.cache/
